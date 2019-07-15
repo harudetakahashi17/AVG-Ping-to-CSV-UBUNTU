@@ -26,7 +26,7 @@ And that output is saved on uniform filename like h1.txt, h2.txt, h3.txt or h1-t
 1. Download or copy the code
 2. Place the code in specific folder
 3. Within the folder in same place with the code, make new folder called 'puthere' for put all your ping result files.
-4. Type in terminal $ python main.py (MAKE SURE YOU ARE IN CORRECT DIRECTORY)
+4. Type in terminal $ python avgping.py (MAKE SURE YOU ARE IN CORRECT DIRECTORY)
 5. Wait a few seconds, and Done!
 
 # Note
